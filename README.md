@@ -1,6 +1,6 @@
 # **FilmesFlix**
 
-Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp Kotlin Everis da DIO.
+Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp NTT DATA da DIO.
 
 Este projeto consiste em exibir uma lista de filmes, oriundas de uma API. 
 
@@ -18,8 +18,6 @@ Este projeto consiste em exibir uma lista de filmes, oriundas de uma API.
   <img src="/filmes_flix.png" width="300" />
 </p>
 
-**Desafios para os alunos:**
 
-Como devem ter observado, os filmes possuem mais informações que deixariam o app ainda melhor. Que tal criarem uma tela de detalhes de cada filme com as informações vindas da requisição? 
 # App-Filmes
 # App-Filmes
